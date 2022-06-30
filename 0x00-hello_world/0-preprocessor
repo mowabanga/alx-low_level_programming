@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#A script that runs a C file through a preprocessor
+
+#C file should be saved in a variable
+
+#Output should be saved in filr c
+
+gcc -E $CFILE -o c
