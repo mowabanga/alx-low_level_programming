@@ -1,14 +1,12 @@
-/**
- *  *A C program that prints the size of various types on the computer it is compiled and run on.
- *   *Program should return 0
- *    */
-
 #include <stdio.h>
 
 /**
- *  *main - main block
- *   *Return: 0
- *    */
+ * main - Main block
+ *
+ * Description: Print size of various types on comp
+ *
+ * Return: Always 0 (success)
+*/
 
 int main(void)
 {
