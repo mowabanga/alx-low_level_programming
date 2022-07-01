@@ -1,14 +1,11 @@
-/**                                                                                                                                                                                                                                                                                             
- * Using put () function to print instead of printf string                                                                                                                                                                                                                                      
- * you need to first make a variable
- * Program should end with 0                                                                                                                                                                                                                          
-*/
 #include<stdio.h>
 /**
- * main - entry point
+ * main - Entry point
  *
- * return - always 0 (success)
- */ 
+ * description: Print using puts() no using printf
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char mystrng[] = "\"Programming is like building a multilingual puzzle";
