@@ -7,10 +7,11 @@
 
 void swap_int(int *a, int *b)
 {
-	int a;
-	int b;
+	int swap;
 
-	_putchar("a=%d b=%d\n", a, b);
-	swap_int(&a, &b);
-	_putchar("a=%d b=%d\n", a, b);
+	swap = a* ;
+
+	*a = *b;
+
+	*b = swap;
 }
