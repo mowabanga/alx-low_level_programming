@@ -3,12 +3,12 @@
 
 /**
  * main - length of the string
- *
+ *_strlen - measures the length of a string
  * return - length
- *
+ *@s - variable input
  */
 
 int _strlen(char *s)
 {
-	return(strlen (s));
+	return (strlen(s));
 }
