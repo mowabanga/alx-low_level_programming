@@ -1,1 +1,1 @@
-Contains tasks on pointers, arrays & strings
+Tackling strings, pointers and arrays
